@@ -44,12 +44,33 @@ products — таблица "Товары"
 ![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_17.PNG)
 ![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_18.PNG)
 
-## 5. Создание Job
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+## 5. Доп. задания:
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_28.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_29.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_30.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_31.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_32.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_33.PNG)
 
+## 6. Создание Job
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_19.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_20.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_21.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_22.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_23.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_24.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_25.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_26.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/etl_2_27.PNG)
 
+## Результаты
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/p_1.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/p_2.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/p_3.PNG)
+
+также результаты по дополнительным заданиям:
+
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/p_4.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/p_6.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/p_5.PNG)
+![](https://github.com/IlinaAS/ETL/blob/main/lab_2/img/p_7.PNG)
